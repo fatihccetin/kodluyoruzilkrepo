@@ -7,3 +7,5 @@ Kodluyoruz egitimi kapsamında oluşturdugum ilk repo
   -vs code ve işe yarar eklentiler
   -git
     --gitignore
+
+    *html
