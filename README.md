@@ -6,6 +6,11 @@ Kodluyoruz egitimi kapsamında oluşturdugum ilk repo
 
   -vs code ve işe yarar eklentiler
   -git
-    --gitignore
+  --gitignore
 
     *html
+
+    - liste elemanı
+    - liste elemanı 2
+
+[kodluyoruz](https://www.kodluyoruz.org/bootcamp/)
