@@ -1,0 +1,27 @@
+/* Grıp selectör
+1  *  tüm etiketleri secer
+(div p)  div içindeki tüm p etiketleri
+(div,p) tüm div ve p etiketleri
+(p eşlik işareti div) p ile aynı seviyedeki tüm divler
+(p + div) p etiketinden sonra gelen tüm divler
+
+
+*/
+
+
+
+
+p{
+    background-color: burlywood;
+}
+
+div p {
+
+    background-color: crimson;
+}
+
+.conteiner div.box {
+
+    background-color: darkgreen;
+
+}
