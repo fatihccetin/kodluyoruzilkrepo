@@ -77,8 +77,8 @@ input[type="button"]{
     color: violet;
     padding: 10px;
 } */
-
-table{
+/* --------------------------------- */
+/* table{
     width: 100%;
 border-collapse: collapse;
 }
@@ -100,7 +100,19 @@ table tr:nth-child(even){
 
 table tr:hover{
     background-color: #ddd;
+} 
+-------------------------------------
+*/
+
+.one{
+    background-color: teal;
+    width: 70%;
+    height: 100px;
+    overflow: scroll;
 }
 
+.two{
 
+    background-color: tomato;
+}
 
