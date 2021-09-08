@@ -8,9 +8,7 @@
 
 */
 
-
-
-
+/* 
 p{
     background-color: burlywood;
 }
@@ -24,4 +22,64 @@ div p {
 
     background-color: darkgreen;
 
+} */
+
+/* div.box , p {
+    background-color: darkgreen;
+} */
+
+/* div>p{  
+/* p etiketinin bir üst elemanı div ise al  */
+    /* border: 1px solid red;
+
+} */ 
+
+/* p+div{
+    border: 1px solid red;
+    background-color: seagreen;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+    padding: 20px;
+} */
+
+p[title]{
+
+    border: 1px solid red; 
+    padding: 5px;
 }
+
+p[title="third paragraph"]{
+
+    background-color: saddlebrown;
+}
+
+a[href ^="https"]{
+    color: red;
+}
+
+
+a[href $="com"]{
+    color: aqua;
+}
+
+input[type="text"]{
+
+    display: block;
+    width: 150px;
+    background-color: red;
+}
+input[type="button"]{
+
+    background: yellow;
+    color: violet;
+    padding: 10px;
+}
+
+
+
+
+
+
