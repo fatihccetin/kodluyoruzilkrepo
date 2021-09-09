@@ -103,16 +103,39 @@ table tr:hover{
 } 
 -------------------------------------
 */
-
+/* 
 .one{
     background-color: teal;
     width: 70%;
     height: 100px;
-    overflow: scroll;
+    overflow:auto;
 }
 
 .two{
 
     background-color: tomato;
+} */
+
+/* ------------------ */
+
+.container{
+
+    width: 1140px;
+
 }
 
+.blog-post-container{
+width: 75%;
+background-color: aquamarine;
+
+}
+
+.other-posts{
+    width: 25%;
+    background-color: bisque;
+}
+
+.outhor-box{
+    border:1px solid red;
+
+}
